@@ -22,4 +22,3 @@
 ```bash
 python Lab3/src/lab3_canny_edge_detector.py --input Lab3/data/input/sample.jpg
 ```
-

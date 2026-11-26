@@ -1,1 +1,23 @@
+# Core Image Processing & Scientific Computing
+numpy>=1.26.0
+opencv-python>=4.9.0
+pillow>=10.2.0
+matplotlib>=3.8.0
+scipy>=1.12.0
+scikit-image>=0.22.0
 
+# Wavelet Transform & Evaluation Metrics (Lab 4)
+PyWavelets>=1.5.0
+scikit-learn>=1.4.0
+
+# Face Detection & Recognition (Lab 5)
+torch>=2.2.0
+torchvision>=0.17.0
+facenet-pytorch>=2.5.3
+mtcnn>=0.1.1
+
+# FastAPI Backend Presentation Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.1
+python-multipart>=0.0.9
+pydantic>=2.6.0

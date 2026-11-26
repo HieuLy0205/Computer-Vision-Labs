@@ -1,0 +1,6 @@
+{
+  "name": "Computer Vision Labs 1-5",
+  "description": "Interactive Computer Vision Lab Suite & Presentation (OpenCV, Spatial Filtering, Wavelet Hashing, FaceNet & MTCNN) with React and FastAPI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
